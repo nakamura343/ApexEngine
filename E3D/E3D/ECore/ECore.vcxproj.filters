@@ -15,22 +15,14 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="framework.h">
+    <ClInclude Include="ECommon.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="pch.h">
+    <ClInclude Include="E3DHeader.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="E3DHead.h">
+    <ClInclude Include="EMatrix.h">
       <Filter>头文件</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="ECore.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="pch.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
