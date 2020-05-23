@@ -154,9 +154,11 @@
     <ClInclude Include="E3DHeader.h" />
     <ClInclude Include="ECommon.h" />
     <ClInclude Include="EMatrix.h" />
+    <ClInclude Include="EUtil.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EMatrix.cpp" />
+    <ClCompile Include="EUtil.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
